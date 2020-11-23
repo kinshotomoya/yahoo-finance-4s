@@ -6,5 +6,7 @@
 #### 作成イメージ
 elastic4sをオマージュする。
 
+https://github.com/kinshotomoya/kinsho-elastic4s
+
 - clientを選べる
 - 外部からapi-keyを指定
